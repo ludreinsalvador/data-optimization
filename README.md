@@ -1,7 +1,6 @@
 # Data Optimization
 
-**Instructor:** [Instructor Name, if applicable]
-
+**Instructor:** Mr. Lorenzo Sta. Maria, Data Scientist at Globe Telecom
 ---
 
 ## Overview
