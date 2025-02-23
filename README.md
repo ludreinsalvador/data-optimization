@@ -8,11 +8,6 @@ This repository explores data optimization using PySpark, covering big data conc
 
 ---
 
-## Data Used
-- **[Data Folder](/data/)** - This contains datasets used in various optimization tasks.
-
----
-
 ## Notebooks
 - **[Notebooks Folder](/notebooks/)** - This contains Jupyter notebooks for different topics in data optimization:
   - **[Week 1 - Spark Setup](notebooks/salvadorl_week1.ipynb)**: Understanding Big Data, Hadoop, and Spark Ecosystem
