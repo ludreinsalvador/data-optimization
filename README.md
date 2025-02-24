@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This repository explores data optimization using PySpark, covering big data concepts, pipelines, machine learning, and data transformation techniques. The goal is to enhance data processing efficiency and model performance.
+This explores data optimization using PySpark, covering big data concepts, pipelines, machine learning, and data transformation techniques. The goal is to enhance data processing efficiency and model performance.
 
 ---
 
